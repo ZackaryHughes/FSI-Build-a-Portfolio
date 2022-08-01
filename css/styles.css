@@ -1,0 +1,27 @@
+body {
+    background-color:darkgreen
+}
+h1 {
+    color:crimson;
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+    color:blue;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    color:cyan;
+    font-family:'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 25%;
+    border-style:groove;
+    border: 5px solid black
+    
+}
+p {
+    font-size: 1.5rem;
+}
+cursor:
